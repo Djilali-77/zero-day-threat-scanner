@@ -1,9 +1,10 @@
 # 🛡️ Zero-Day Network Anomaly Detection System
 
-[![Docker](https://img.shields.io/badge/Docker-Supported-2496ED.svg?style=flat&logo=docker&logoColor=white)]()
-[![React](https://img.shields.io/badge/Frontend-React-61DAFB.svg?style=flat&logo=react&logoColor=black)]()
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white)]()
-[![Scikit-Learn](https://img.shields.io/badge/ML-Isolation_Forest-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)]()
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ML-Isolation_Forest-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 
 An End-to-End, Full-Stack MLOps project that leverages Unsupervised Machine Learning (**Isolation Forest**) to detect Zero-Day network threats and anomalous traffic. Trained on the **NSL-KDD** dataset, this system features a FastAPI backend, a modern React (Vite) SOC dashboard, and is fully containerized using **Docker** for seamless production deployment.
 
