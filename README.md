@@ -43,8 +43,8 @@ Because the entire application is containerized, you don't need to install Pytho
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Djilali-77/zero-day-threat-scanner.git
-   cd zero-day-threat-scanner
+   git clone https://github.com/Djilali-77/ZeroDay-Detector-IsolationForest.git
+   cd ZeroDay-Detector-IsolationForest
    ```
 
 2. **Build and start the application:**
