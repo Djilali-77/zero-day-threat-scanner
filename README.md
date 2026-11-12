@@ -1,4 +1,4 @@
-# 🛡️ Zero-Day Network Anomaly Detection System
+# 🛡️ ZeroDay Detector IsolationForest
 
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
