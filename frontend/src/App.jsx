@@ -23,7 +23,8 @@ function App() {
     setScanResult(null);
 
     try {
-      const response = await axios.post("http://127.0.0.1:8000/predict", formData);
+      const API_URL = "http://127.0.0.1:8000";
+      const response = await axios.post(`${API_URL}/predict`, formData);
       setScanResult(response.data);
     } catch (error) {
       console.error("Error calling API: ", error);
