@@ -1,4 +1,3 @@
-
 const TrafficForm = ({ formData, handleChange, handleSubmit }) => {
   const inputStyle = "bg-slate-900 text-slate-100 border border-slate-600 rounded px-3 h-11 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 w-full";
   const labelStyle = "text-slate-300 text-sm font-semibold mb-1";
